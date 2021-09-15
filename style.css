@@ -12,8 +12,9 @@ html {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+
   background-attachment: scroll;
+  background-attachment: fixed;
 }
 .img1 {
   background-image: url("./photo-1552288092-76e7d732366c.jpg");
