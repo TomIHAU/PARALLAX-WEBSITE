@@ -1,0 +1,35 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.img1,
+.img2,
+.img3 {
+  opacity: 0.8;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-attachment: scroll;
+}
+.img1 {
+  background-image: url("./photo-1552288092-76e7d732366c.jpg");
+  min-height: 100%;
+}
+.img2 {
+  background-image: url("./sebastian-astecker-NaEDImEQXVw-unsplash.jpg");
+  min-height: 400px;
+}
+.img3 {
+  background-image: url("./serey-kim-xjrvTc52xYc-unsplash.jpg");
+  min-height: 400px;
+}
+.intText {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
